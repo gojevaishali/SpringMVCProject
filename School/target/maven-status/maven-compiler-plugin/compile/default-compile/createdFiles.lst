@@ -1,0 +1,8 @@
+com\school\config\SchoolMVCConfig.class
+com\school\config\HibernateConfig.class
+com\school\entity\StandardEntity.class
+com\school\service\StandardService.class
+com\school\service\StandardServiceImpl.class
+com\school\bean\Standard.class
+com\school\controller\SchoolController.class
+com\school\repository\StandardRepository.class
